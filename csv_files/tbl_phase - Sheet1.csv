@@ -1,0 +1,6 @@
+phase_ID,phase_name,phase_description,phase_dates
+0,whole cycle,a,
+1,follicular,x,
+2,ovulatory,y,
+3,luteal,z,
+4,menstrual,w,
